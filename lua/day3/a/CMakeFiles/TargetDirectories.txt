@@ -1,0 +1,3 @@
+/Users/oliver/projects/seven-more-languages-in-seven-days/lua/day3/a/CMakeFiles/play.dir
+/Users/oliver/projects/seven-more-languages-in-seven-days/lua/day3/a/CMakeFiles/edit_cache.dir
+/Users/oliver/projects/seven-more-languages-in-seven-days/lua/day3/a/CMakeFiles/rebuild_cache.dir

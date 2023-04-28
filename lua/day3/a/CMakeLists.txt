@@ -1,0 +1,6 @@
+include_directories(/opt/homebrew/Cellar/lua/5.4.4_1/include/lua/)
+include_directories(/opt/homebrew/lib/)
+cmake_minimum_required(VERSION 3.26)
+project(play)
+add_executable(play play.cpp)
+target_link_libraries(play lua)
