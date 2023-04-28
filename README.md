@@ -29,3 +29,10 @@ I don't think I've ever had to work so hard for a `hello, world` program.
 Having now finished this section up to (but not including) the tasks, I find it much more believable that someone could use Factor for "real" programming. Still, I don't think I'll be switching anytime soon: I'm far too indoctrinated into the applicative model.
 
 Slight (huge) gripe: this language has terrible errors, and there's *literally* nothing online that I can reference other than the solid blank wall of the official documentation.
+
+### Day 3
+I'm done with Factor!
+
+After stepping away from an absolutely *aggravating* problem, having a snack, and reading through the rest of day 3, I feel that I totally respect Factor: it's an impressively robust project that can do basically anything.
+
+Still, I'm not going to be using it in a real project anytime soon. It's like trying to write withyour non-dominant hand: a brilliant exercise, but only because it makes you appreciate what you normally do.
