@@ -36,3 +36,13 @@ I'm done with Factor!
 After stepping away from an absolutely *aggravating* problem, having a snack, and reading through the rest of day 3, I feel that I totally respect Factor: it's an impressively robust project that can do basically anything.
 
 Still, I'm not going to be using it in a real project anytime soon. It's like trying to write withyour non-dominant hand: a brilliant exercise, but only because it makes you appreciate what you normally do.
+
+## Language 3: Elm
+### Day 1
+In my defence, languages don't normally change that much.
+
+Looks like the book is *very* out of date, so it's really more of a loose guide in this context. Maybe that's a good thing!
+
+I really like the look of Elm, at least at first brush, and having just dealt with the airy-fairy typish hell of Elm and Factor, I'm very happy to have a language that tells me to shut up and respect types. It's a bit like the feeling of writing Rust, except there isn't a compiler beating me into submission everytime I forget an ampersand.
+
+Ok, scratch that. This thing is really annoying, and feels *very* incomplete. There's literally no way to run a standalone script (as far as I can tell).
