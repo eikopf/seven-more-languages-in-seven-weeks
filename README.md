@@ -22,3 +22,10 @@ This whole experience has soured my view of Lua quite significantly. Do people a
 ## Language 2: Factor
 ### Day 1
 The listener/repl thing is poorly made, but actually this language is quite cool. I dread to think how that GUI library works.
+
+### Day 2
+I don't think I've ever had to work so hard for a `hello, world` program.
+
+Having now finished this section up to (but not including) the tasks, I find it much more believable that someone could use Factor for "real" programming. Still, I don't think I'll be switching anytime soon: I'm far too indoctrinated into the applicative model.
+
+Slight (huge) gripe: this language has terrible errors, and there's *literally* nothing online that I can reference other than the solid blank wall of the official documentation.
