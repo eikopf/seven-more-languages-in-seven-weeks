@@ -46,3 +46,17 @@ Looks like the book is *very* out of date, so it's really more of a loose guide 
 I really like the look of Elm, at least at first brush, and having just dealt with the airy-fairy typish hell of Elm and Factor, I'm very happy to have a language that tells me to shut up and respect types. It's a bit like the feeling of writing Rust, except there isn't a compiler beating me into submission everytime I forget an ampersand.
 
 Ok, scratch that. This thing is really annoying, and feels *very* incomplete. There's literally no way to run a standalone script (as far as I can tell).
+
+### Day 2
+Actually, the book is ***really*** out of date. Like almost a decade.
+
+Elm has changed significantly between 2014 and now, so I'm really using the book as more of a suggestion, and instead following the language overview on https://guide.elm-lang.org/. Actually, I quite like some of the features of Elm, and in particular how I don't have to touch callback hell. Instead, everything is just strongly-typed data that I can deal with.
+
+I watched a video (whose title I have now forgotten) about using Elm in Vite, and the particular thing I got from it was this: Elm doesn't have runtime errors. I mean it does, in a literal sense, but much like Rust, it's more like *if your program compiles, then you can trust it*. I **really** like this ethos, especially coming from the last few languages in this book.
+
+### Day 3
+This part would be a convoluted hell to try and follow (and update), so I've chosen to skim it and review how you would implement a game in modern Elm. Poking around on https://package.elm-lang.org/, I see a number of different gamedev-specific packages, including ones for an ECS-style model, which I can only assume works particularly well in this functional style.
+
+I love the idea of thinking about games *statically*. Forget everything else, the only concern of the program is getting from the current game state to the next game state; let Elm handle the minor details.
+
+Still, I am a little concerned that Elm's pure functionality might kill a project towards the end, when technical debt and compiler limitations make it impossible to add a new feature without also untangling deeply interwoven types and relationships. I can't really be too harsh a judge without trying it, but it is something to think about (and not evident until it's **far** too late).
