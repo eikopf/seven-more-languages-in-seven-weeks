@@ -75,3 +75,5 @@ Guess I needed time to get used to it, because I'm actually really starting to l
 The metaprogramming stuff does give me a headache, but it seems incredibly useful, and feels a little like how I felt decorators should work in Python when I first encountered them.
 
 Seems at this rate like Elixir will turn out to be my favourite language in this book (not excluded my already beloved Julia) :).
+
+> *Also that stuff I said about function calls on day 1 was embarassingly wrong. Woops.*
