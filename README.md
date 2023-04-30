@@ -68,3 +68,10 @@ This language is very strange. It's sort of on the border between familiar thing
 The prime example is calling functions; they're invoked with `func.(args)`, not `func(args)`. That might make sense, if your language does dynamic dispatch, and you reference the different forms of a function with parenthesis notation, but it still feels very wrong.
 
 Much like Ruby, this language also has a lot of syntax that feels very arbitrary: if you're talking about syntactic sugar, then Elixir feels oversweetened to me. In Python, new syntax always comes along to fill a problem that was annoying but already possible, and in Kotlin, any "syntactic sugar" is universal, rather than scoped to a single type of statement. Here, though, it just feels a little arbitrary. Perhaps I just need to get used to it.
+
+### Day 2
+Guess I needed time to get used to it, because I'm actually really starting to like Elixir. There's a point that Bob Nystrom makes in *Crafting Interpreters*, where he says that language designers often strive for minimalism at the expense of the developer experience, and I absolutely felt that with Factor and Elm; I really feel the opposite when it comes to Elixir.
+
+The metaprogramming stuff does give me a headache, but it seems incredibly useful, and feels a little like how I felt decorators should work in Python when I first encountered them.
+
+Seems at this rate like Elixir will turn out to be my favourite language in this book (not excluded my already beloved Julia) :).
