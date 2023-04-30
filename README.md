@@ -60,3 +60,11 @@ This part would be a convoluted hell to try and follow (and update), so I've cho
 I love the idea of thinking about games *statically*. Forget everything else, the only concern of the program is getting from the current game state to the next game state; let Elm handle the minor details.
 
 Still, I am a little concerned that Elm's pure functionality might kill a project towards the end, when technical debt and compiler limitations make it impossible to add a new feature without also untangling deeply interwoven types and relationships. I can't really be too harsh a judge without trying it, but it is something to think about (and not evident until it's **far** too late).
+
+## Language 4: Elixir
+### Day 1
+This language is very strange. It's sort of on the border between familiar things like Python (or now Lua, I guess), but it also has some choices that make academic sense but feel intuitively wrong. 
+
+The prime example is calling functions; they're invoked with `func.(args)`, not `func(args)`. That might make sense, if your language does dynamic dispatch, and you reference the different forms of a function with parenthesis notation, but it still feels very wrong.
+
+Much like Ruby, this language also has a lot of syntax that feels very arbitrary: if you're talking about syntactic sugar, then Elixir feels oversweetened to me. In Python, new syntax always comes along to fill a problem that was annoying but already possible, and in Kotlin, any "syntactic sugar" is universal, rather than scoped to a single type of statement. Here, though, it just feels a little arbitrary. Perhaps I just need to get used to it.
