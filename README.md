@@ -92,3 +92,8 @@ This book is pretty out of date, at least in terms of Julia: they're using 0.3, 
 
 ### Day 3
 Again, the hardest part of this day was replacing functions that have long since been deprecated; still, the premise was really interesting, and that kind of data manipulation is exactly why I love Julia.
+
+## Language 6: miniKanren
+I was expecting miniKanren to incomprehensibly esoteric, and yet so far it feels essentially like my first-year logic course at university. Relations and first-order logic (+ recursion), plus the notion of a relational database, are already fairly familiar to me.
+
+The hardest thing to wrap my head around at this point is the host language: Clojure. The syntax is bizarre, and even though I have a little experience with Emacs Lisp, it's still going to take some time to get used to.
