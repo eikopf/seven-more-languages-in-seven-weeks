@@ -94,8 +94,16 @@ This book is pretty out of date, at least in terms of Julia: they're using 0.3, 
 Again, the hardest part of this day was replacing functions that have long since been deprecated; still, the premise was really interesting, and that kind of data manipulation is exactly why I love Julia.
 
 ## Language 6: miniKanren
+### Day 1
 I was expecting miniKanren to incomprehensibly esoteric, and yet so far it feels essentially like my first-year logic course at university. Relations and first-order logic (+ recursion), plus the notion of a relational database, are already fairly familiar to me.
 
 The hardest thing to wrap my head around at this point is the host language: Clojure. The syntax is bizarre, and even though I have a little experience with Emacs Lisp, it's still going to take some time to get used to.
 
 > Also, some useful links: https://github.com/clojure/core.logic and https://rawgit.com/dedeibel/clojure-core-logic-cheatsheets/master/out/cheatsheet-use-title-attribute-no-cdocs-summary.html
+
+### Day 2
+We've covered conditionals, and even though I understand the raw concepts fairly clearly, I find that I can't really apply them; the Lisp-syntax of Clojure prevents me from intuitively engaging with core.logic.
+
+I'd really like to get used to this tool, but I think I'm better off trying to learn something a little more intuitive like Prolog.
+
+I'm also struck by how the idea of "a program that finds solutions to problems" is a much less intuitive idea than just defining and explaining relations. It's a minor gripe, but I'd love to see an explanation/implementation of miniKanren that relies on prior familiarity with set-theoretic logic.
