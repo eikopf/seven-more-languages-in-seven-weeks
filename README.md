@@ -89,3 +89,6 @@ It'll be difficult to add anything novel here, since I already use and love Juli
 
 ### Day 2
 This book is pretty out of date, at least in terms of Julia: they're using 0.3, and currently we're at 1.8.5. Still, it's not terribly hard to translate up to the current day, and some of this stuff is really useful (like the `@distributed` macro). Julia's gotten a lot more concurrency since this book was written, though, so I'll need to pore over this stuff some other time.
+
+### Day 3
+Again, the hardest part of this day was replacing functions that have long since been deprecated; still, the premise was really interesting, and that kind of data manipulation is exactly why I love Julia.
