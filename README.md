@@ -86,3 +86,6 @@ Final thoughts? Elixir currently ranks as the best language of the four I've see
 ## Language 5: Julia
 ### Day 1
 It'll be difficult to add anything novel here, since I already use and love Julia. But I am still hopeful that this book can teach me a little about concurrency and macros, since I rarely touch those at the moment.
+
+### Day 2
+This book is pretty out of date, at least in terms of Julia: they're using 0.3, and currently we're at 1.8.5. Still, it's not terribly hard to translate up to the current day, and some of this stuff is really useful (like the `@distributed` macro). Julia's gotten a lot more concurrency since this book was written, though, so I'll need to pore over this stuff some other time.
