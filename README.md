@@ -82,3 +82,7 @@ Seems at this rate like Elixir will turn out to be my favourite language in this
 All done! I feel incredibly stupid. Elixir is so foreign to the way I code that it takes real effort just to read a function, or to reason about behaviour. Still, this style of functional programming, oversweetened as it is, clicks with me far more that Elm did. That it so easily handles concurrency and metaprogramming is just the cherry on top; these details come at a time when my projects increasingly demand them.
 
 Final thoughts? Elixir currently ranks as the best language of the four I've seen thus far, and I expect that I'll come back to it with fresh eyes, to properly learn what it can do. Still, I'm probably going to need a break (and ibuoprofen) before I'm ready for that.
+
+## Language 5: Julia
+### Day 1
+It'll be difficult to add anything novel here, since I already use and love Julia. But I am still hopeful that this book can teach me a little about concurrency and macros, since I rarely touch those at the moment.
