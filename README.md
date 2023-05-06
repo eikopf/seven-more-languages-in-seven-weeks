@@ -95,7 +95,7 @@ Again, the hardest part of this day was replacing functions that have long since
 
 ## Language 6: miniKanren
 ### Day 1
-I was expecting miniKanren to incomprehensibly esoteric, and yet so far it feels essentially like my first-year logic course at university. Relations and first-order logic (+ recursion), plus the notion of a relational database, are already fairly familiar to me.
+I was expecting miniKanren to be incomprehensibly esoteric, and yet so far it feels essentially like my first-year logic course at university. Relations and first-order logic (+ recursion), plus the notion of a relational database, are already fairly familiar to me.
 
 The hardest thing to wrap my head around at this point is the host language: Clojure. The syntax is bizarre, and even though I have a little experience with Emacs Lisp, it's still going to take some time to get used to.
 
