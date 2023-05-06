@@ -112,3 +112,9 @@ I'm also struck by how the idea of "a program that finds solutions to problems" 
 Conclusions! Mostly, it's just that I *really* don't get LISPs, and I should probably learn one. Maybe Clojure?
 
 Anyway, the concept of miniKanren seems really interesting, and if I could find a way to integrate it with a familiar language, say Python or Julia, then I would probably find it much easier to grasp. In particular, the idea of using logic programming to describe a story-space and then to search through it with constraints is super interesting; it strikes me as a really neat way to do generative storytelling.
+
+## Language 7: Idris
+### Day 1
+Idris seems to quite powerful, and a brief skim over the materials available makes it seem like it takes being functional **very** seriously. There's a lot of stuff about *proving* that a program is safe, or "has no holes" (whatever that means).
+
+By chance, Idris is well supported by Doom Emacs, my usual editor. Hopefully that means I can spend more time just writing code, and less time debugging extraneous stuff.
