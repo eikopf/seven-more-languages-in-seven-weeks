@@ -107,3 +107,8 @@ We've covered conditionals, and even though I understand the raw concepts fairly
 I'd really like to get used to this tool, but I think I'm better off trying to learn something a little more intuitive like Prolog.
 
 I'm also struck by how the idea of "a program that finds solutions to problems" is a much less intuitive idea than just defining and explaining relations. It's a minor gripe, but I'd love to see an explanation/implementation of miniKanren that relies on prior familiarity with set-theoretic logic.
+
+### Day 3
+Conclusions! Mostly, it's just that I *really* don't get LISPs, and I should probably learn one. Maybe Clojure?
+
+Anyway, the concept of miniKanren seems really interesting, and if I could find a way to integrate it with a familiar language, say Python or Julia, then I would probably find it much easier to grasp. In particular, the idea of using logic programming to describe a story-space and then to search through it with constraints is super interesting; it strikes me as a really neat way to do generative storytelling.
