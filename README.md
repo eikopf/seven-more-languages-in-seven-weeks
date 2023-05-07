@@ -127,3 +127,8 @@ Having just battled my way through old code in an unfinished language with a sec
 A lot of the ideas make sense, but the unfamiliar syntax, poor error messages, and general lack of documentation means that I can't get to grips with the type system here.
 
 I'll pick up the last section tomorrow, and see if it makes a little more sense.
+
+### Day 3
+Bugfixing in Idris somehow always ends up in reading a type theory paper, which if nothing else is at least a novel experience. I'm sure that if I had a PhD in category theory, it might be a little easier, but for now Idris is decidedly out of my league.
+
+If nothing else, it's a great crash course in type theory, and some of those papers have interesting ideas that I might well implement in a more conventional language.
