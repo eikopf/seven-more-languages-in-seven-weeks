@@ -118,3 +118,12 @@ Anyway, the concept of miniKanren seems really interesting, and if I could find 
 Idris seems to quite powerful, and a brief skim over the materials available makes it seem like it takes being functional **very** seriously. There's a lot of stuff about *proving* that a program is safe, or "has no holes" (whatever that means).
 
 By chance, Idris is well supported by Doom Emacs, my usual editor. Hopefully that means I can spend more time just writing code, and less time debugging extraneous stuff.
+
+### Day 2
+> Today's code is broken, because Idris is *hard*.
+
+Having just battled my way through old code in an unfinished language with a second version at v0.6, it really seems like I should just learn a conventional purely functional language instead of Idris.
+
+A lot of the ideas make sense, but the unfamiliar syntax, poor error messages, and general lack of documentation means that I can't get to grips with the type system here.
+
+I'll pick up the last section tomorrow, and see if it makes a little more sense.
